@@ -31,5 +31,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/kara-kentin-cocuklari-1999.md
 - content/post/kurz-und-schmerzlos.md
 - content/post/noi-albinoi.md
