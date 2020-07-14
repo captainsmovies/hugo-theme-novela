@@ -1,4 +1,4 @@
 baseURL: "https://kaptanin-filmleri.netlify.app/"
-languageCode: "tr-tur"
+languageCode: "tr"
 title: "Kaptanın Filmleri"
 pygmentsstyle: 'monokai'
