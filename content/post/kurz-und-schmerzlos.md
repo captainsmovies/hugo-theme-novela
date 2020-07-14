@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 excerpt = ""
 hero = "/images/2835826404afce420_0.jpg"
 title = "Kurz und schmerzlos"
