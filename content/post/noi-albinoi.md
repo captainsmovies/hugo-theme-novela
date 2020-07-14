@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-12T21:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/26400_2.jpg"
 title = "Noi Albinoi"
