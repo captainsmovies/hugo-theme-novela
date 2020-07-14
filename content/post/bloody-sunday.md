@@ -1,7 +1,6 @@
 +++
 authors = []
 date = ""
-draft = true
 excerpt = ""
 hero = "/images/bloody-sunday-2002.jpg"
 title = "Bloody Sunday"

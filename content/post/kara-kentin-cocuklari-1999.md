@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-11T21:00:00Z
-draft = true
 excerpt = ""
 hero = "/images/ex6cfvswsaeb3hg.jpg"
 title = "Kara Kentin Çocukları, 1999"
